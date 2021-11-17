@@ -1,0 +1,4 @@
+{
+  "vlng_version"  : 1.0,
+  "dlng_aLanguages" : ["en"]
+}
