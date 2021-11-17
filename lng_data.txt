@@ -1,4 +1,4 @@
 {
-  "vlng_version"  : 1.0,
+  "vlng_version"  : 1.5,
   "dlng_aLanguages" : ["en", "sk"]
 }
