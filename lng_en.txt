@@ -1,5 +1,8 @@
 {
- "0" : "New Game",
+ "0" : "Language Extension v1.0",
  "1" : "Web based language extension for GameMaker Studio by Martin Danihel",
- "2" : "Exit"
+ "2" : "Exit",
+ "3" : "Slovak",
+ "4" : "English"
+ "5" : "Change language"
 }
